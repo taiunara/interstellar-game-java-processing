@@ -22,19 +22,18 @@ displayScore(): Displays the player's score
 Install Processing
 
 Download and install Processing from processing.org.
-Clone the repository
 
-bash
-Copiar
-Editar
+Clone the repository
 git clone https://github.com/your-username/interstellar-game.git
 cd interstellar-game
+
 Open the project in Processing
 
 Open the .pde file in the Processing editor.
 Run the game
 
 Click the Run button (▶) in Processing to start the game.
+
 🎮 Controls
 Arrow keys: Move the spaceship
 Collect crystals: Increase your score

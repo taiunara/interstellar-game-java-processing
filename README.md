@@ -24,8 +24,8 @@ Install Processing
 Download and install Processing from processing.org.
 
 Clone the repository
-git clone https://github.com/your-username/interstellar-game.git
-cd interstellar-game
+git clone https://github.com/taiunara/interstellar-game-java-processing.git
+cd interstellar-game-java-processing
 
 Open the project in Processing
 
